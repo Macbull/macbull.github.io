@@ -6,3 +6,5 @@ permalink: /teaching/2019-fall-cg
 venue: "University of Colorado-Boulder, Computer Science Department"
 date: 2019-08-25
 location: "Boulder, US"
+---
+
