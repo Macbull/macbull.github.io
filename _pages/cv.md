@@ -11,30 +11,46 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Computer Science and Engineering, GitHub University, 2017
+* M.S. in Computer Science, GitHub University, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2016: Visiting Researcher, West Virginia University
+  * Supervisor: Professor Victor Fragoso
+    * 3D reconstruction of brain tissue: Investigated existing solutions for reconstruction of 3D mesh from electron microscopy images of brain.
+    * Monte-Carlo Simulation: Modeled the movement of Glucose molecules through different membranes of brain tissue in a Blender simulation.
   
-Skills
+
+* Fall 2016: Undergraduate Researcher, West Virginia University
+  * Supervisor: Professor Saiph Savage
+    * UnbiasedCrowd: Designed a platform to help activists easily detect and expose Visual Framing Bias in News Media.
+    * Presented results at ACM CHI’17: (one of the top-ranked conference in the field of human-computer interaction)
+  
+* Summer 2014: Research Intern, National Institute of Technology-Kurukshetra, India
+  * Supervisor: Professor Mahesh Pal
+    * Sparse Extreme Learning Machine for Land Cover Classification: Characterised the useful training cases derived by SELM to guide the prioritization of ground truth collection sites.
+
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages :
+  * Python
+  * C/C++
+  * C#
+  * Matlab
+* Frameworks :
+  * ROS
+  * OpenGL/ES
+  * OpenCL
+  * OpenCV
+  * Tensorflow
+  * Pytorch
+* Tools : 
+  * Gazebo
+  * Unity3D
+  * Maya
+  * Blender
+  * Fusion 360
+  * Git
 
 Publications
 ======
