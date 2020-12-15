@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.Tech. in Computer Science and Engineering, GitHub University, 2017
-* M.S. in Computer Science, GitHub University, 2020
+* B.Tech. in Computer Science and Engineering, The LNMIIT-Jaipur, India, 2017
+* M.S. in Computer Science, University of Colorado-Boulder, 2020
 
 Work experience
 ======
