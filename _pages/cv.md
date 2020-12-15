@@ -31,6 +31,7 @@ Work experience
   * Supervisor: Professor Mahesh Pal
     * Sparse Extreme Learning Machine for Land Cover Classification: Characterised the useful training cases derived by SELM to guide the prioritization of ground truth collection sites.
 
+Skills
 ======
 * Languages :
   * Python
