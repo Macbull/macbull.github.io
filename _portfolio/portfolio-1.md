@@ -1,7 +1,13 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Lake simulator (OpenGL, GLSL, Qt5, OpenCL, C++):"
+excerpt: "Rendered a lake scene to showcase advance OpenGL concepts.
+Instanced 3d models (with normal maps) of trees and rock were rendered over a tessellated hilly terrain with water. Multiple
+render passes were used for effects like shadows, high dynamic range, reflection and refraction in water. Fireflies were simulated
+using Boids (flocking) algorithm implemented in OpenCL. <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Rendered a lake scene to showcase advance OpenGL concepts.
+Instanced 3d models (with normal maps) of trees and rock were rendered over a tessellated hilly terrain with water. Multiple
+render passes were used for effects like shadows, high dynamic range, reflection and refraction in water. Fireflies were simulated
+using Boids (flocking) algorithm implemented in OpenCL.
