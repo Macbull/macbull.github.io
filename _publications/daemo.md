@@ -2,7 +2,7 @@
 title: "Daemo: A self-governed crowdsourcing marketplace"
 collection: publications
 permalink: /publication/daemo
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper introduces Daemo, a self-governed crowdsourcing marketplace. We proposed a prototype task to improve the work quality and open-governance model to achieve equitable representation. We envisage Daemo will enable workers to build sustainable careers and provide requesters with timely, quality labor for their businesses.'
 date: 2015-11-06
 venue: '28th annual ACM symposium on user interface software & technology'
 paperurl: 'https://dl.acm.org/doi/pdf/10.1145/2815585.2815739'

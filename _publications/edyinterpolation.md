@@ -2,7 +2,7 @@
 title: "Peripheral Detail-based Edge Preserving Image Interpolation Scheme"
 collection: publications
 permalink: /publication/edgyinterpolation
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'In this paper, We propose an edge preserving interpolation algorithm in this paper. Our proposed algorithm extracts and recognises the direction of edges in an image. Based on the extracted information about localisation of edges, interpolated pixels are either replicated or predicted from known neighbourhood pixels. Experimental results confirm our approach to give good image quality, outperforming various other interpolation algorithms.'
 date: 2015-07-27
 venue: 'Proceedings of the International Conference on Image Processing, Computer Vision, and Pattern Recognition (IPCV)'
 paperurl: 'https://search.proquest.com/docview/1706223619?pq-origsite=gscholar&fromopenview=true'

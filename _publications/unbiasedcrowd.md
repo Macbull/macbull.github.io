@@ -1,8 +1,11 @@
 ---
-title: "Paper Title Number 3"
+title: "Automated assistants to identify and prompt action on visual news bias."
 collection: publications
 permalink: /publication/unbiasedcrowd
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'In this paper we propose a novel tool called UnbiasedCrowd that supports
+identification of, and action on bias in visual news media. We describe a preliminary study and conclude by discussing
+design and implication of our findings for creating future
+systems to identify and counteract the effects of news bias.'
 date: 2017-05-06
 venue: '2017 CHI Conference Extended Abstracts on Human Factors in Computing Systems'
 paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3027063.3053227'

@@ -2,7 +2,7 @@
 title: "Natural Image Interpolation Using Extreme Learning Machine"
 collection: publications
 permalink: /publication/elminterpolation
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: ' In this paper, we investigate replacing the linear model by a flexible non-linear model, resulting in a novel interpolation algorithm based on extreme learning machines. Based on an extensive set of experiments, we show that our proposed approach yields improved image quality, as confirmed by both objective and subjective results.'
 date: 2016-12-19
 venue: 'International Conference on Soft Computing and Pattern Recognition, 2016.'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-319-60618-7_34'
